@@ -1,8 +1,6 @@
-<H1> Data Structure Final Project </H1></br>
+<H1> Data Structure Final Project - Matching Game (Onet) </H1></br>
 
-<h1>Matching Game (Onet)</h1> 
-
-<H1>Overview</h1><H1></h1>
+<H1>Overview</h1>
 This project implements the Onet game, a tile-matching puzzle game where players connect pairs of identical tiles on a board. The implementation compares two different data structures—2D array and HashMap—to manage the game board and perform various operations efficiently.
 
 <H1>Features</h1></br>
@@ -27,10 +25,11 @@ Pathfinding: Finding valid paths between tiles on the board.
 Connectivity Checking: Determining if there is a path between two given tiles.
 Removing Images: Handling the removal of matched tiles and updating the board.
 Empty Board Check: Verifying if the game board is empty.
-Methodology
+
+ <H1>Methodology</h1>
 Implementation: The game logic and data structures (2D array and HashMap) are implemented in Java.
 Measurement: Execution times (in nanoseconds) for each operation are measured using performance profiling techniques.
 Analysis: The performance metrics are analyzed to determine the suitability of each data structure for the Onet game.
 
-Conclusion
+<H1>Conclusion </h1>
 The project provides insights into the practical application of data structures in game development. Developers can use the findings to choose the most suitable data structure based on performance requirements and game dynamics. The comparison between the 2D array and HashMap implementations highlights their respective strengths and limitations in managing board games like Onet.
