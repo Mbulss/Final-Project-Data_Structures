@@ -1,12 +1,12 @@
-***********************************************
-*                                             *
-*              Onet Game Implementation       *
-*                                             *
-***********************************************
-Overview
+<H1> Data Structure Final Project </H1></br>
+
+<h1>Matching Game (Onet)</h1> 
+
+<H1>Overview</h1><H1></h1>
 This project implements the Onet game, a tile-matching puzzle game where players connect pairs of identical tiles on a board. The implementation compares two different data structures—2D array and HashMap—to manage the game board and perform various operations efficiently.
 
-Features
+<H1>Features</h1></br>
+
 2D Array Implementation:
 
 Represents the game board using a fixed-size 2D array.
